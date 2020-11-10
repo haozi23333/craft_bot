@@ -1,0 +1,15 @@
+{
+  "name": "craft_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^0.21.0",
+    "mariadb": "^2.5.1",
+    "mirai-ts": "^0.7.8",
+    "sequelize": "^6.3.5",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}
